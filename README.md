@@ -18,4 +18,4 @@ As the core operator of Transformers, Softmax Attention exhibits excellent globa
 
 ### Models
 
-[All models here](https://huggingface.co/aldjalkdf/MAViT)
+[All models here](https://huggingface.co/aldjalkdf/MAViT/tree/main)
