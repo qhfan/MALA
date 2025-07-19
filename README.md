@@ -1,6 +1,5 @@
 # [ICCV2025]Rectifying Magnitude Neglect in Linear Attention
 
-Code will come soon
 ### Arxiv
 [Rectifying Magnitude Neglect in Linear Attention](https://arxiv.org/abs/2507.00698)
 
