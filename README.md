@@ -1,4 +1,4 @@
-# [ICCV2025]Rectifying Magnitude Neglect in Linear Attention
+# [ICCV2025 highlight]Rectifying Magnitude Neglect in Linear Attention
 
 ### Arxiv
 [Rectifying Magnitude Neglect in Linear Attention](https://arxiv.org/abs/2507.00698)
